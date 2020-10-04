@@ -1,4 +1,4 @@
-# 12-days-of-christmas ~~- an awesome project~~
+# 12-days-of-christmas ~~- an AWESOME project~~
 Write Code to print the 12 days of Christmas song!
 
 ```
